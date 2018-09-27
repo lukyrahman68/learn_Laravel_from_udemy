@@ -1,0 +1,11 @@
+[33mcommit a03a6c363de76c89dd67b66ae3126d85e27ed1b9[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Luky Rahman <lukyrahman68@gmail.com>
+Date:   Wed Sep 26 13:06:28 2018 +0700
+
+    add model role-AdminUserController and some database
+
+[33mcommit 257c8398faeeefc745fab3c2b789dbc86952527b[m
+Author: Luky Rahman <lukyrahman68@gmail.com>
+Date:   Wed Sep 26 12:34:36 2018 +0700
+
+    my first commit-admin views created
